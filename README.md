@@ -1,7 +1,6 @@
 # flowbite-svelte-admin-dashboard
 
 - [demo](https://flowbite-svelte-admin-dashboard.vercel.app/)
-- [repo](https://github.com/themesberg/flowbite-svelte-admin-dashboard)
 
 ## Installation
 
